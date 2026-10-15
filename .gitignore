@@ -1,0 +1,13 @@
+# Runtime logs & artifacts (jangan di-commit)
+*.log
+.tunnel.out
+.bore.out
+PUBLIC_URL.txt
+data/watchdog-history.jsonl
+
+# OS / editor
+.DS_Store
+Thumbs.db
+
+# Dependencies
+node_modules/
